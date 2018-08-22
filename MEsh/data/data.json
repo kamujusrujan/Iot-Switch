@@ -1,0 +1,29 @@
+
+{
+		"UserId" :"A12b",
+		"ParentId":"parent",
+		"BoardId":"board",
+		"CustomerName":"Srujan",
+		"SwitchBoards" : 3,
+		"SwitchBoardDetails" : [ 
+								{
+									"RoomId":"room1",	
+									"Name":"Bed",
+									"Switches": 3,
+									"State" : [0,0,0]	
+								},
+								{	
+									"RoomId":"room2",
+									"Name":"Room2",
+									"Switches":2,
+									"State":[0,0]
+								},
+								{	
+									"RoomId":"room3",
+									"Name":"Room3",
+									"Switches":6,
+									"State":[0,0,0,0,0,0]
+								}		 	
+								]
+
+}
